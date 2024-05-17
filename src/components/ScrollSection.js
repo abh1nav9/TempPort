@@ -42,7 +42,7 @@ function ScrollSection() {
             <h3>Pro Procrastinator</h3>
           </div>
           <div className="scroll-section">
-            <h3>I'm always free to talk.</h3>
+            <h3>I am always free to talk.</h3>
           </div>
           <div className="scroll-section">
             <h3>Portfolio under construction.</h3>
